@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mostafa Tarek Mohamed
 
-<div align="center">
+<div align="left">
 
 ## Portfolio
 
