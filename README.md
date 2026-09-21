@@ -8,7 +8,7 @@
 
 ### 💻 Full-Stack Developer 
 
-Building scalable web applications, RESTful APIs, and modern user experiences.
+Building scalable web applications, Secure, RESTful APIs, and modern user experiences.
 
 </div>
 
@@ -23,9 +23,9 @@ Building scalable web applications, RESTful APIs, and modern user experiences.
 
 I enjoy building:
 - RESTful APIs
+- Security measures
 - Full-stack web applications
 - Database-driven platforms
-- Dockerized applications
 - Scalable backend services
 - Low Code solutions
   
@@ -115,8 +115,8 @@ I enjoy building:
 
 # 📚 Currently Learning
 
-- Redux
-- Cloud Computing 
+- Deep .NET Core
+- Cloud - Docker - CI/CD
 - Advanced Backend Engineering
 - System Design
 - Scalable Architectures
